@@ -12,3 +12,4 @@ git config --global user.email aaa@gmail.com
 9) git checkout -b newBranchName
 10) git checkoutbranch name
 11) git checkout commitHash
+12) git merge branchName
