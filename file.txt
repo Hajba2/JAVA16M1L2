@@ -13,3 +13,4 @@ git config --global user.email aaa@gmail.com
 10) git checkoutbranch name
 11) git checkout commitHash
 12) git merge branchName
+13) code changes from master brtanch
